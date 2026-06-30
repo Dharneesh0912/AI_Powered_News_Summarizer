@@ -152,7 +152,7 @@ AI-Powered-News-Summarizer/
 ## 🤖 AI Generated Summary
 
 <p align="center">
-  <img src="./Screenshot%202026-06-30%20155140.png" width="900">
+  <img src="‎AI-Powered-News-Summarizer/Screenshot 2026-06-30 155140.png" width="900">
 </p>
 
 <p align="center">
