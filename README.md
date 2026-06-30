@@ -166,7 +166,8 @@ AI-Powered-News-Summarizer/
 ## 📊 Login Page
 
 <p align="center">
-  <img src="./Screenshot%202026-06-30%20155729.png" width="900">
+ <img width="467" height="825" alt="Screenshot 2026-06-30 155729" src="https://github.com/user-attachments/assets/ca7426b2-303c-4c2c-a065-6671ef5c3f39" />
+
 </p>
 
 <p align="center">
