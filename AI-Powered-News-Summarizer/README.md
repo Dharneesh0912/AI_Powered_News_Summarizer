@@ -161,7 +161,7 @@ AI-Powered-News-Summarizer/
 
 ---
 
-## 📊 News Dashboard
+## 📊 Login Page
 
 <p align="center">
   <img src="./Screenshot%202026-06-30%20155729.png" width="900">
